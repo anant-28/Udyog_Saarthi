@@ -1,2 +1,2 @@
-# Udyod-Saarthi
+# Udyog-Saarthi
 This is a Job and training Portal for PWD's
